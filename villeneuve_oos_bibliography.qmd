@@ -1,0 +1,14 @@
+---
+title: "Bibliography, Villeneuve OOS 2025"
+author: "Andrew Villeneuve"
+format: html
+editor: visual
+bibliography: temp_bib.bib
+csl: nature.csl
+nocite: "@*"
+---
+
+## Bibliography
+
+::: {#refs}
+:::
