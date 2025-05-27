@@ -1,7 +1,7 @@
 ---
 title: "Bibliography, Villeneuve OOS 2025"
 author: "Andrew Villeneuve"
-format: html
+format: pdf
 editor: visual
 bibliography: temp_bib.bib
 csl: nature.csl
