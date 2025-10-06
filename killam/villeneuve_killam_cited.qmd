@@ -1,0 +1,49 @@
+---
+title: "Works Cited, Killam Postdoctoral Fellowship 2025"
+author: "Andrew R. Villeneuve"
+format: html
+---
+
+## Bibliography
+
+1.  Smith, K. E. et al. Biological Impacts of Marine Heatwaves. Annu. Rev. Mar. Sci. **15**, annurev-marine-032122-121437 (2023).
+
+2.  Stillman, J. H. et al. Ecophysiological responses to heat waves in the marine intertidal zone. Journal of Experimental Biology **228**, JEB246503 (2025).
+
+3.  Garrabou, J. et al. Marine heatwaves drive recurrent mass mortalities in the Mediterranean Sea. Global Change Biology **28**, 5708–5725 (2022).
+
+4.  Raymond, W. W. et al. Short-term effects of an unprecedented heatwave on intertidal bivalve populations: fisheries management surveys provide an incomplete picture. Front. Mar. Sci. **11**, (2024).
+
+5.  Doherty, M. L., Johnson, J. V. & Goodbody-Gringley, G. Widespread coral bleaching and mass mortality during the 2023–2024 marine heatwave in Little Cayman. PLOS ONE 20, e0322636 (2025).
+
+6.  Raymond, W. W. et al. Assessment of the impacts of an unprecedented heatwave on intertidal shellfish of the Salish Sea. Ecology 103, e3798 (2022).
+
+7.  White, R. H. et al. The unprecedented Pacific Northwest heatwave of June 2021. Nat Commun **14**, 1–20 (2023).
+
+8.  Helmuth, B. S. et al. Mosaic Patterns of Thermal Stress in the Rocky Intertidal Zone: Implications for Climate Change. Ecological Monographs **76**, 461–479 (2006).
+
+9.  Hesketh, A. V. & Harley, C. D. G. Extreme heatwave drives topography-dependent patterns of mortality in a bed-forming intertidal barnacle, with implications for associated community structure. Global Change Biology **29**, 165–178 (2023).
+
+10. Villeneuve, A. R. & White, E. R. Predicting organismal response to marine heatwaves using dynamic thermal tolerance landscape models. Journal of Animal Ecology 1365-2656.14120 (2024) doi:10.1111/1365-2656.14120.
+
+11. Arnold, P. A. et al. A Framework for Modelling Thermal Load Sensitivity Across Life. Global Change Biology **31**, (2025).
+
+12. Rezende, E. L., Castañeda, L. E. & Santos, M. Tolerance landscapes in thermal ecology. Funct Ecol **28**, 799–809 (2014).
+
+13. Rezende, E. L., Bozinovic, F., Szilágyi, A. & Santos, M. Predicting temperature mortality and selection in natural Drosophila populations. Science **369**, 1242–1245 (2020).
+
+14. Jørgensen, L. B., Malte, H., Ørsted, M., Klahn, N. A. & Overgaard, J. A unifying model to estimate thermal tolerance limits in ectotherms across static, dynamic and fluctuating exposures to thermal stress. Sci Rep **11**, 12840 (2021).
+
+15. Payne, N. L. et al. Heat limits scale with metabolism in ectothermic animals. Journal of Animal Ecology n/a, (2025).
+
+16. Rajagopal, S. et al. Thermal tolerance of the invasive oyster Crassostrea gigas: Feasibility of heat treatment as an antifouling option. Water Research **39**, 4335–4342 (2005).
+
+17. Verberk, W. C. E. P., Hoefnagel, K. N., Peralta-Maraver, I., Floury, M. & Rezende, E. L. Long-term forecast of thermal mortality with climate warming in riverine amphipods. Global Change Biology **29**, 5033–5043 (2023).
+
+18. Buckley, L. B., Cannistra, A. F. & John, A. Leveraging Organismal Biology to Forecast the Effects of Climate Change. Integrative and Comparative Biology **58**, 38–51 (2018).
+
+19. Gerhard, M. et al. Environmental variability in aquatic ecosystems: Avenues for future multifactorial experiments. Limnology and Oceanography Letters **8**, 247–266 (2023).
+
+20. Halley, J. M. Ecology, evolution and 1f-noise. Trends in Ecology & Evolution **11**, 33–37 (1996).
+
+21. Bray, S. R. & Wang, B. Forecasting unprecedented ecological fluctuations. PLOS Computational Biology **16**, e1008021 (2020).
