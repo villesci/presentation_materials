@@ -8,4 +8,4 @@ author: Andrew Villeneuve
 
 ## 
 
-@sasaki2025, @oliver2019, @hobday2016, @hobday2018,@skirving2020, @smith2023, @rezende2014, @rezende2020, @jørgensen2021, @ørsted2024, @garrabou2022, @pairaud2014, @gómez-gras2021, @villeneuve2024
+@sasaki2025, @oliver2019, @hobday2016, @hobday2018, @smith2023, @rezende2014, @rezende2020, @jørgensen2021, @ørsted2024, @garrabou2022, @pairaud2014, @gómez-gras2021, @villeneuve2024
