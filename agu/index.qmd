@@ -1,0 +1,10 @@
+---
+title: "AGU Materials"
+author: "Andrew R. Villeneuve"
+format: html
+editor: visual
+---
+
+## [**AGU slides**](agu/viilleneuve_agu_presentation.pdf)
+
+## [**AGU talk references**](agu/agu_references.html)
