@@ -7,7 +7,7 @@ editor: visual
 
 ## Poster
 
-## [**Oyster TDT Poster (SMSOE 2026)**](oyster_tdt_poster/oyster_tdt_poster.pdf)
+## [**Oyster TDT Poster (SMSOE 2026)**](oyster_tdt_poster/villeneuve_smsoe_poster.pdf)
 
 ## Video
 
