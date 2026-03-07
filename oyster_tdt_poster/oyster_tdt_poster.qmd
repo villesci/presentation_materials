@@ -1,0 +1,14 @@
+---
+title: "SMSOE 2026 Poster, Oyster TDT"
+author: Andrew R. Villeneuve
+format: html
+editor: visual
+---
+
+## Poster
+
+## [**Oyster TDT Poster (SMSOE 2026)**](oyster_tdt_poster/villeneuve_smsoe_poster.pdf)
+
+## Video
+
+## [**Oyster TDT Video (SMSOE 2026)**](https://youtu.be/T7ffAQo3Aek)
