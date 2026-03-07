@@ -6,7 +6,7 @@ editor: visual
 ---
 # 2026
 
-## [**Oyster TDT Poster (SMSOE 2026)**](oyster_tdt_poster/villeneuve_smsoe_poster.html)
+## [**Oyster TDT Poster (SMSOE 2026)**](oyster_tdt_poster/oyster_tdt_poster.html)
 
 # 2025
 
