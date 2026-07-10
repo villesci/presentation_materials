@@ -1,9 +1,11 @@
 ---
-title: "SMSOE 2026 Poster, Oyster TDT"
+title: "GRC 2026 Poster, Mediterranean Gorgonian Mortality"
 author: Andrew R. Villeneuve
 format: html
 editor: visual
 ---
+
+Supplemental materials for Andrew Villeneuve's GRC 2026 poster. 
 
 ## Poster
 
