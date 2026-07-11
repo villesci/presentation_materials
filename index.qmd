@@ -4,9 +4,12 @@ author: "Andrew R. Villeneuve"
 format: html
 editor: visual
 ---
+
 # 2026
 
 ## [**Oyster TDT Poster (SMSOE 2026)**](oyster_tdt_poster/oyster_tdt_poster.html)
+
+## [**GRC 2026 Poster**](grc2026/grc_2026.html)
 
 # 2025
 
