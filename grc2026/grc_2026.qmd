@@ -7,8 +7,8 @@ editor: visual
 
 ## Poster
 
-## [**Mediterranean Gorgonians and Heatwaves Poster (GRC Unifying Ecology across Scales 2026)**](grc2026/villeneuve_poster_grc2026.pdf)
+## [**Mediterranean Gorgonians and Heatwaves Poster (GRC Unifying Ecology across Scales 2026)**](villeneuve_poster_grc2026.pdf)
 
 ## Gif
 
-## [**Mediterranean Gorgonian Necrosis GIF (GRC 2026)**](grc2026/mortaltiy_animation_cop_20m_m.gif)
+## [**Mediterranean Gorgonian Necrosis GIF (GRC 2026)**](mortality_animation_cop_20m_m.gif)
